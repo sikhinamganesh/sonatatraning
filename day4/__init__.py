@@ -1,0 +1,9 @@
+a1=[6,7,8,9,10]
+b1=[1,2,3,4,5]
+print(a1)
+print(a1.count(2))
+print(a1+b1)
+print(a1.pop())
+print(b1.pop())
+print(a1.append(b1))
+print(b1.append(a1))
